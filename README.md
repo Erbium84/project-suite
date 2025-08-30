@@ -4,7 +4,7 @@ This Repository showcases my proficiency in usage of React hooks and JavaScript'
 
 **Deployed at:** https://erbium84.github.io/project-suite/
 
-# Teckstack Used
+# Techstack Used
 - **React** : Frontend library for building interactive UI
 - **Vite** : Next-generation build tool for fast development and optimized production builds
 - **JavaScript (ESM)** : Modular and modern JavaScript for building components
